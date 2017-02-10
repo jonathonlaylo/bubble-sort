@@ -8,7 +8,7 @@ Best Case Scenario - O(n)
 
 Average Case Scenario - O(n<sup>2</sup>)
 
-Worst Case Scenario - O(n^2)
+Worst Case Scenario - O(n<sup>2</sup>)
 
 ## Psuedo code
 ```
