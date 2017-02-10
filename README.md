@@ -1,4 +1,7 @@
-are in the wrong order. this is repeated until no swaps are needed. simple but slow and impractical.
+# Bubble Sort
+
+> aka "sinking sort" 
+> simple sorting that steps through the list, compares each pair of items, and swaps if they are in the wrong order. this is repeated until no swaps are needed. simple but slow and impractical.
 
 Best Case Scenario - O(n)
 Average Case Scenario - O(n^2^)
